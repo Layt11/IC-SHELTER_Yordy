@@ -1,0 +1,318 @@
+[2021.12.06 17:30:28] [0000m.00s.032ms] [0] WELCOME
+[2021.12.06 17:30:28] [0000m.00s.034ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.12.06 17:30:28] [0000m.00s.034ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.12.06 17:30:28] [0000m.00s.034ms] [1] Base flow version [VX.2.7]
+[2021.12.06 17:30:28] [0000m.00s.034ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.12.06 17:30:28] [0000m.00s.034ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.12.06 17:30:29] [0000m.00s.051ms] [1] Machine [DESKTOP-ANU9D3M]  IP [127.0.0.1,192.168.68.205]  User [Acero]  PID [1528]
+[2021.12.06 17:30:29] [0000m.00s.052ms] [1] Operating system [Microsoft Windows 10 Business Edition, 64-bit (build 19042)]
+[2021.12.06 17:30:29] [0000m.00s.052ms] [1] Current working dir [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER]
+[2021.12.06 17:30:29] [0000m.00s.052ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Users\Acero\AppData\Local\Microsoft\WindowsApps;C:\Users\Acero\AppData\Local\Programs\Microsoft VS Code\bin]
+[2021.12.06 17:30:29] [0000m.00s.052ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.12.06 17:30:29] [0000m.00s.052ms] [1] SDD_PLATFORM [win32]
+[2021.12.06 17:30:29] [0000m.00s.052ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.12.06 17:30:29] [0000m.00s.052ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.12.06 17:30:29] [0000m.00s.053ms] [2] S: Loading config files
+[2021.12.06 17:30:29] [0000m.00s.079ms] [1] Config file [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\database\cdbsvr\Server.cfg] not found
+[2021.12.06 17:30:29] [0000m.00s.082ms] [3] S: Config loaded
+[2021.12.06 17:30:29] [0000m.00s.131ms] [0] S: Project path [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\database] on file system [NTFS]
+[2021.12.06 17:30:29] [0000m.00s.132ms] [0] S: Project file (.prj) path [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\IC-SHELTER.prj] on file system [NTFS]
+[2021.12.06 17:30:29] [0000m.00s.132ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2021.12.06 17:30:29] [0000m.00s.132ms] [0] S: Single-user mode (auto)
+[2021.12.06 17:30:29] [0000m.00s.132ms] [0] S: Event polling mode autodetection
+[2021.12.06 17:30:29] [0000m.00s.134ms] [0] S: Started up automatically by iCDB Client: DESKTOP-ANU9D3M:Acero:6984
+[2021.12.06 17:30:29] [0000m.00s.134ms] [0] S: Auto close mode
+[2021.12.06 17:30:29] [0000m.00s.134ms] [0] S: Database ID [3af5-93d8-7bb9-e10e-ae08-ea10-f08e-a160-62a4-0431-a2c1-60a8]
+[2021.12.06 17:30:29] [0000m.00s.134ms] [0] PathTranslator: BEGIN dumping
+[2021.12.06 17:30:29] [0000m.00s.134ms] [0] PathTranslator: Local -> global path prefix list
+[2021.12.06 17:30:29] [0000m.00s.134ms] [0] PathTranslator: Global -> local path prefix list
+[2021.12.06 17:30:29] [0000m.00s.134ms] [0] PathTranslator: END dumping
+[2021.12.06 17:30:29] [0000m.00s.134ms] [0] S: START
+[2021.12.06 17:30:29] [0000m.00s.134ms] [0] S: Server startup lock file created
+[2021.12.06 17:30:29] [0000m.00s.136ms] [0] S: Listening for client connections on port [10001]
+[2021.12.06 17:30:29] [0000m.00s.138ms] [0] S: Server network ID [DESKTOP-ANU9D3M:192.168.68.205,DESKTOP-ANU9D3M:10001]
+[2021.12.06 17:30:29] [0000m.00s.138ms] [0] S: Server GUID [b568-8e13-179e-ecf2-5f08-ea1b-f08e-a160-2126-0431-a2c1-60a8]
+[2021.12.06 17:30:29] [0000m.00s.138ms] [0] S: Project GUID [3af5-93d8-7bb9-e10e-ae08-ea10-f08e-a160-62a4-0431-a2c1-60a8]
+[2021.12.06 17:30:29] [0000m.00s.141ms] [0] S: Wrote data to server address file
+[2021.12.06 17:30:29] [0000m.00s.142ms] [0] S: Server startup lock file removed
+[2021.12.06 17:30:29] [0000m.00s.142ms] [1] S: WARNING: The last server session [2021-12-06 16.09.30-9864] with GUID [7a81-aa5d-784c-803b-afd6-ea10-0e6e-a160-37ce-fd2b-8c0b-dcb5] on this machine with WDIR [C:\PADS Projects] shutdown unexpectedly.
+[2021.12.06 17:30:29] [0000m.00s.143ms] [1] ProjectBackupManager: Setting project file (.prj) path: [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\IC-SHELTER.prj]
+[2021.12.06 17:30:29] [0000m.00s.726ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2021.12.06 17:30:29] [0000m.00s.727ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\iCDB\win32\bin]
+[2021.12.06 17:30:29] [0000m.00s.727ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin]
+[2021.12.06 17:30:29] [0000m.00s.728ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2021.12.06 17:30:29] [0000m.00s.728ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2021.12.06 17:30:29] [0000m.00s.728ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2021.12.06 17:30:29] [0000m.00s.729ms] [0] S: Local disc access time: 87 us
+[2021.12.06 17:30:29] [0000m.00s.729ms] [0] S: File server access time: 75 us
+[2021.12.06 17:30:29] [0000m.00s.745ms] [0] S: WARNING: The last iCDB Server session [DESKTOP-ANU9D3M (2021-12-06 16.09.30-9864)] with GUID [7a81-aa5d-784c-803b-afd6-ea10-0e6e-a160-37ce-fd2b-8c0b-dcb5] shutdown unexpectedly. Database integrity check forced.
+[2021.12.06 17:30:29] [0000m.00s.746ms] [0] Single file [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\database\icdb.dat] size [426520 (416.5 kB)]
+[2021.12.06 17:30:29] [0000m.00s.746ms] [1] Single file [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\database\icdb.dat] opened in read-write mode
+[2021.12.06 17:30:29] [0000m.00s.747ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.12.06 17:30:29] [0000m.00s.747ms] [0] Database GUARD OK: [426520]
+[2021.12.06 17:30:29] [0000m.00s.748ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.12.06 17:30:29] [0000m.00s.748ms] [0] Database GUARD OK: [426520]
+[2021.12.06 17:30:29] [0000m.00s.749ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.12.06 17:30:29] [0000m.00s.749ms] [0] Database GUARD OK: [426520]
+[2021.12.06 17:30:29] [0000m.00s.749ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.12.06 17:30:29] [0000m.00s.750ms] [0] Database GUARD OK: [426520]
+[2021.12.06 17:30:29] [0000m.00s.750ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.12.06 17:30:29] [0000m.00s.750ms] [0] Database GUARD OK: [426520]
+[2021.12.06 17:30:29] [0000m.00s.750ms] [0] SingleFile: [3ba2-822a-0ff9-f307] SFI version check [1009] [1009]
+[2021.12.06 17:30:29] [0000m.00s.829ms] [0] SingleFile: [3ba2-822a-0ff9-f307] Reset holes information - force defragmentation
+[2021.12.06 17:30:29] [0000m.00s.829ms] [0] SingleFile: [3ba2-822a-0ff9-f307] Database SFI header has been read in [78ms 751us]
+[2021.12.06 17:30:29] [0000m.00s.841ms] [0] iCDB Server PI: Server & plugin session [182]
+[2021.12.06 17:30:29] [0000m.00s.841ms] [0] iCDB Server PI: Opening database [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\database]
+[2021.12.06 17:30:29] [0000m.00s.842ms] [0] iCDB Server PI: Database [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\database] opened
+[2021.12.06 17:30:29] [0000m.00s.950ms] [0] iCDB Database: Checking existence of constraint definitions
+[2021.12.06 17:30:29] [0000m.00s.950ms] [0] iCDB Database: Checking constraint definitions version
+[2021.12.06 17:30:29] [0000m.01s.011ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2021.12.06 17:30:30] [0000m.01s.057ms] [1] iCDB Server PI: Checking database integrity
+[2021.12.06 17:30:30] [0000m.01s.159ms] [1] Diagnostic: Warning: group claims owner but it does not exist in ICDB
+[2021.12.06 17:30:30] [0000m.01s.178ms] [1] Diagnostic: Check failed on Snapshot: DxD
+[2021.12.06 17:30:30] [0000m.01s.227ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\database\s2\cdbcmpcache\dxdatl.v] - auto-saving it
+[2021.12.06 17:30:30] [0000m.01s.228ms] [1] iCDB Server PI: Database integrity check PASSED
+[2021.12.06 17:30:30] [0000m.01s.228ms] [0] iCDB Server PI: Initializing plugins
+[2021.12.06 17:30:30] [0000m.01s.229ms] [0] iCDB Server PI: Plugins initialized
+[2021.12.06 17:30:30] [0000m.01s.229ms] [0] S: iCDB database loaded
+[2021.12.06 17:30:30] [0000m.01s.231ms] [0] S: Starting threads
+[2021.12.06 17:30:30] [0000m.01s.232ms] [0] BT: Listening for broadcast messages on port [10000]
+[2021.12.06 17:30:30] [0000m.01s.237ms] [0] IT: Session [183] for host [DESKTOP-ANU9D3M] user [Acero] client type[0] clsvrPluginID[0] with process ID [6984] created
+[2021.12.06 17:30:30] [0000m.01s.237ms] [1] CMT: There are [1] clients now: 183
+[2021.12.06 17:30:30] [0000m.01s.242ms] [1] SC[183]: Registered sub-client [DxD] with ID [1] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:30] [0000m.01s.247ms] [0] MWT: WindowProc: WM_NCCREATE
+[2021.12.06 17:30:30] [0000m.01s.257ms] [0] IT: iCDB Server Monitor session [1] for host [DESKTOP-ANU9D3M] user [Acero] with process ID [9260] created
+[2021.12.06 17:30:30] [0000m.01s.257ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2021.12.06 17:30:30] [0000m.01s.459ms] [1] SC[183]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:30] [0000m.01s.514ms] [1] SC[183]: Registered sub-client [SymbolEditor] with ID [3] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:30] [0000m.01s.525ms] [1] SC[183]: Registered sub-client [SelectionHolder] with ID [4] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:30] [0000m.01s.594ms] [1] SC[183]: Registered sub-client [Core::DesignListener-586797432-0] with ID [5] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:30] [0000m.01s.602ms] [1] SC[183]: Registered sub-client [BlockCacheDxD:586797048] with ID [6] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:30] [0000m.01s.606ms] [1] SC[183]: Registered sub-client [Core::NetFlatData-18902] with ID [7] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:30] [0000m.01s.737ms] [1] SC[183]: Registered sub-client [SystemDesignDll] with ID [8] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:30] [0000m.01s.749ms] [1] SC[183]: UnRegistered sub-client [SystemDesignDll] with ID [8] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:30] [0000m.01s.754ms] [1] SC[183]: Registered sub-client [SystemDesignDll] with ID [9] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:36] [0000m.07s.778ms] [1] SC[183]: Registered sub-client [DesignSearcher2] with ID [10] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:36] [0000m.07s.797ms] [1] SC[183]: Registered sub-client [HdlProject] with ID [11] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:36] [0000m.07s.816ms] [1] SC[183]: Registered sub-client [Navigator] with ID [12] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:36] [0000m.07s.854ms] [1] SC[183]: Registered sub-client [OutputWindow] with ID [13] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:36] [0000m.07s.863ms] [1] SC[183]: Registered sub-client [PlaceDevice] with ID [14] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:37] [0000m.08s.213ms] [1] SC[183]: Registered sub-client [FFSearch_RBHost] with ID [15] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:37] [0000m.08s.220ms] [1] SC[183]: Registered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:39] [0000m.10s.837ms] [1] SC[183]: Registered sub-client [FFSSelListener] with ID [17] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:39] [0000m.10s.846ms] [1] SC[183]: Registered sub-client [SAE] with ID [18] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:39] [0000m.10s.880ms] [1] SC[183]: Registered sub-client [DxConstraints] with ID [19] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:39] [0000m.10s.886ms] [1] SC[183]: Registered sub-client [CCZAddin] with ID [20] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:39] [0000m.10s.892ms] [1] SC[183]: Registered sub-client [DxThumbnails] with ID [21] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:39] [0000m.10s.898ms] [1] SC[183]: Registered sub-client [MyParts] with ID [22] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:39] [0000m.10s.933ms] [1] SC[183]: Registered sub-client [PinsList] with ID [23] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:40] [0000m.11s.137ms] [1] SC[183]: Registered sub-client [toolboxes] with ID [24] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:40] [0000m.11s.216ms] [1] SC[183]: Registered sub-client [IBDInstanceDialog] with ID [25] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:40] [0000m.11s.223ms] [1] SC[183]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:590491864] with ID [26] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:40] [0000m.11s.330ms] [1] SC[183]: Registered sub-client [SheetConnectorsCacheDxD:1638826240] with ID [27] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:40] [0000m.11s.467ms] [1] SC[183]: Registered sub-client [NetsNamesCollectorDxD:1638826240] with ID [28] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:40] [0000m.11s.520ms] [1] SC[183]: Registered sub-client [PartReplaceUtils] with ID [29] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:40] [0000m.11s.524ms] [1] SC[183]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:40] [0000m.11s.549ms] [1] SC[183]: Registered sub-client [xprob] with ID [31] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:40] [0000m.11s.792ms] [1] SC[183]: Registered sub-client [StartServerClient12d8] with ID [32] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:40] [0000m.11s.793ms] [1] SC[183]: UnRegistered sub-client [StartServerClient12d8] with ID [32] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:46] [0000m.17s.054ms] [1] SC[183]: Registered sub-client [ObjectHolder_637871168] with ID [33] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:46] [0000m.17s.062ms] [1] SC[183]: Registered sub-client [BlockCacheDxD:600870352] with ID [34] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:46] [0000m.17s.071ms] [1] SC[183]: Registered sub-client [GlobalNetAliasUpdater_637872000] with ID [35] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:46] [0000m.17s.080ms] [1] SC[183]: Registered sub-client [IcdbNetProcessorSubClientDxD:636851936] with ID [36] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:30:47] [0000m.18s.437ms] [1] SC[183]: Registered sub-client [DxDbSearch] with ID [37] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 17:31:08] [0000m.39s.373ms] [0] DFAMT: File server access time: 121 us
+[2021.12.06 20:09:34] [0159m.05s.860ms] [1] PrjBackupMgr: Successfully created Project Backup [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\ProjectBackup\backups\2021-12-06 20.09.33 - auto.zip] with GUID [f712-c657-6c16-022c-c36a-ea12-46ae-a160-6505-0431-a2c1-60a8]
+[2021.12.06 20:09:34] [0159m.05s.863ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[f1c3-9f29-eb00-7c0d-ab73-c710-c73c-7160-3575-549e-cfed-10a8] CreationTime[Friday, October 29, 2021 18:04:42] Type[Autosave] Creator[iCDB Server (2021-10-29 14.04.41-7636)] ApplicationName[iCDB Server (2021-10-29 14.04.41-7636)] UserName[Acero] MachineName[DESKTOP-ANU9D3M] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\ProjectBackup\backups\2021-10-29 14.04.42 - auto.zip] BackupFileSize[289883] Persistent[FALSE]
+[2021.12.06 20:09:34] [0159m.05s.885ms] [0] PrjBackupMgr: Project Backup file [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\ProjectBackup\backups\2021-10-29 14.04.42 - auto.zip] with GUID [f1c3-9f29-eb00-7c0d-ab73-c710-c73c-7160-3575-549e-cfed-10a8] removed
+[2021.12.06 20:09:34] [0159m.05s.891ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[f712-c657-6c16-022c-c36a-ea12-46ae-a160-6505-0431-a2c1-60a8] CreationTime[Tuesday, December 07, 2021 00:09:33] Type[Autosave] Creator[iCDB Server (2021-12-06 17.30.28-1528)] ApplicationName[iCDB Server (2021-12-06 17.30.28-1528)] UserName[Acero] MachineName[DESKTOP-ANU9D3M] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\ProjectBackup\backups\2021-12-06 20.09.33 - auto.zip] BackupFileSize[293239] Persistent[FALSE]
+[2021.12.06 20:55:52] [0205m.23s.193ms] [0] IT: Session [184] for host [DESKTOP-ANU9D3M] user [Acero] client type[0] clsvrPluginID[0] with process ID [8152] created
+[2021.12.06 20:55:52] [0205m.23s.273ms] [1] CMT: There are [2] clients now: 183, 184
+[2021.12.06 20:55:52] [0205m.23s.282ms] [1] SC[184]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [184] host [DESKTOP-ANU9D3M] user [Acero] process ID [8152]
+[2021.12.06 20:55:52] [0205m.23s.527ms] [1] SC[184]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [184] host [DESKTOP-ANU9D3M] user [Acero] process ID [8152]
+[2021.12.06 20:55:52] [0205m.23s.609ms] [1] CMT: Removed client [184]
+[2021.12.06 20:55:52] [0205m.23s.609ms] [1] CMT: There are [1] clients now: 183
+[2021.12.06 21:02:28] [0211m.59s.980ms] [1] SC[183]: UnRegistered sub-client [DesignSearcher2] with ID [10] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:02:33] [0212m.04s.194ms] [0] IT: Session [185] for host [DESKTOP-ANU9D3M] user [Acero] client type[0] clsvrPluginID[0] with process ID [12444] created
+[2021.12.06 21:02:33] [0212m.04s.195ms] [1] SC[185]: Registered sub-client [pcbui] with ID [1] for session ID [185] host [DESKTOP-ANU9D3M] user [Acero] process ID [12444]
+[2021.12.06 21:02:33] [0212m.04s.201ms] [1] CMT: There are [2] clients now: 183, 185
+[2021.12.06 21:02:33] [0212m.04s.952ms] [0] IT: Session [186] for host [DESKTOP-ANU9D3M] user [Acero] client type[0] clsvrPluginID[0] with process ID [13548] created
+[2021.12.06 21:02:33] [0212m.04s.953ms] [1] SC[186]: Registered sub-client [icdb2wir] with ID [1] for session ID [186] host [DESKTOP-ANU9D3M] user [Acero] process ID [13548]
+[2021.12.06 21:02:33] [0212m.04s.971ms] [1] CMT: There are [3] clients now: 183, 185, 186
+[2021.12.06 21:02:34] [0212m.05s.427ms] [1] SC[186]: UnRegistered sub-client [icdb2wir] with ID [1] for session ID [186] host [DESKTOP-ANU9D3M] user [Acero] process ID [13548]
+[2021.12.06 21:02:34] [0212m.05s.513ms] [1] CMT: Removed client [186]
+[2021.12.06 21:02:34] [0212m.05s.514ms] [1] CMT: There are [2] clients now: 183, 185
+[2021.12.06 21:02:39] [0212m.10s.403ms] [0] IT: Session [187] for host [DESKTOP-ANU9D3M] user [Acero] client type[0] clsvrPluginID[0] with process ID [13024] created
+[2021.12.06 21:02:39] [0212m.10s.405ms] [1] SC[187]: Registered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [187] host [DESKTOP-ANU9D3M] user [Acero] process ID [13024]
+[2021.12.06 21:02:39] [0212m.10s.466ms] [1] CMT: There are [3] clients now: 183, 185, 187
+[2021.12.06 21:02:40] [0212m.11s.634ms] [1] SC[187]: Registered sub-client [LSUDX_PCB] with ID [2] for session ID [187] host [DESKTOP-ANU9D3M] user [Acero] process ID [13024]
+[2021.12.06 21:02:40] [0212m.11s.673ms] [1] SC[187]: Registered sub-client [ObjectHolder_5505904] with ID [3] for session ID [187] host [DESKTOP-ANU9D3M] user [Acero] process ID [13024]
+[2021.12.06 21:02:40] [0212m.11s.679ms] [1] SC[187]: Registered sub-client [BlockCacheDxD:142602408] with ID [4] for session ID [187] host [DESKTOP-ANU9D3M] user [Acero] process ID [13024]
+[2021.12.06 21:02:40] [0212m.11s.685ms] [1] SC[187]: Registered sub-client [GlobalNetAliasUpdater_5507360] with ID [5] for session ID [187] host [DESKTOP-ANU9D3M] user [Acero] process ID [13024]
+[2021.12.06 21:02:40] [0212m.11s.692ms] [1] SC[187]: Registered sub-client [IcdbNetProcessorSubClientDxD:150287896] with ID [6] for session ID [187] host [DESKTOP-ANU9D3M] user [Acero] process ID [13024]
+[2021.12.06 21:02:41] [0212m.12s.049ms] [1] SC[187]: UnRegistered sub-client [GlobalNetAliasUpdater_5507360] with ID [5] for session ID [187] host [DESKTOP-ANU9D3M] user [Acero] process ID [13024]
+[2021.12.06 21:02:41] [0212m.12s.049ms] [1] SC[187]: UnRegistered sub-client [BlockCacheDxD:142602408] with ID [4] for session ID [187] host [DESKTOP-ANU9D3M] user [Acero] process ID [13024]
+[2021.12.06 21:02:41] [0212m.12s.050ms] [1] SC[187]: UnRegistered sub-client [ObjectHolder_5505904] with ID [3] for session ID [187] host [DESKTOP-ANU9D3M] user [Acero] process ID [13024]
+[2021.12.06 21:02:41] [0212m.12s.051ms] [1] SC[187]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:150287896] with ID [6] for session ID [187] host [DESKTOP-ANU9D3M] user [Acero] process ID [13024]
+[2021.12.06 21:02:41] [0212m.12s.052ms] [1] SC[187]: UnRegistered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [187] host [DESKTOP-ANU9D3M] user [Acero] process ID [13024]
+[2021.12.06 21:02:41] [0212m.12s.066ms] [1] SC[187]: UnRegistered sub-client [LSUDX_PCB] with ID [2] for session ID [187] host [DESKTOP-ANU9D3M] user [Acero] process ID [13024]
+[2021.12.06 21:02:41] [0212m.12s.106ms] [1] CMT: Removed client [187]
+[2021.12.06 21:02:41] [0212m.12s.106ms] [1] CMT: There are [2] clients now: 183, 185
+[2021.12.06 21:02:43] [0212m.14s.053ms] [1] SC[183]: Registered sub-client [VirtualPartActions::backSyncronize] with ID [38] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:02:43] [0212m.14s.060ms] [1] SC[183]: UnRegistered sub-client [VirtualPartActions::backSyncronize] with ID [38] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:02:43] [0212m.14s.164ms] [1] SC[185]: UnRegistered sub-client [pcbui] with ID [1] for session ID [185] host [DESKTOP-ANU9D3M] user [Acero] process ID [12444]
+[2021.12.06 21:02:43] [0212m.14s.194ms] [1] CMT: Removed client [185]
+[2021.12.06 21:02:43] [0212m.14s.194ms] [1] CMT: There are [1] clients now: 183
+[2021.12.06 21:02:43] [0212m.14s.568ms] [1] SC[183]: Registered sub-client [DesignSearcher2] with ID [39] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:03:03] [0212m.34s.936ms] [0] IT: Session [188] for host [DESKTOP-ANU9D3M] user [Acero] client type[0] clsvrPluginID[0] with process ID [8152] created
+[2021.12.06 21:03:03] [0212m.34s.937ms] [1] SC[188]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [188] host [DESKTOP-ANU9D3M] user [Acero] process ID [8152]
+[2021.12.06 21:03:03] [0212m.34s.942ms] [1] CMT: There are [2] clients now: 183, 188
+[2021.12.06 21:03:04] [0212m.35s.082ms] [1] SC[188]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [188] host [DESKTOP-ANU9D3M] user [Acero] process ID [8152]
+[2021.12.06 21:03:04] [0212m.35s.158ms] [1] CMT: Removed client [188]
+[2021.12.06 21:03:04] [0212m.35s.158ms] [1] CMT: There are [1] clients now: 183
+[2021.12.06 21:06:01] [0215m.32s.256ms] [1] SC[183]: UnRegistered sub-client [DesignSearcher2] with ID [39] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:06:03] [0215m.34s.607ms] [0] IT: Session [189] for host [DESKTOP-ANU9D3M] user [Acero] client type[0] clsvrPluginID[0] with process ID [2384] created
+[2021.12.06 21:06:03] [0215m.34s.609ms] [1] SC[189]: Registered sub-client [pcbui] with ID [1] for session ID [189] host [DESKTOP-ANU9D3M] user [Acero] process ID [2384]
+[2021.12.06 21:06:03] [0215m.34s.691ms] [1] CMT: There are [2] clients now: 183, 189
+[2021.12.06 21:06:04] [0215m.35s.188ms] [0] IT: Session [190] for host [DESKTOP-ANU9D3M] user [Acero] client type[0] clsvrPluginID[0] with process ID [14044] created
+[2021.12.06 21:06:04] [0215m.35s.190ms] [1] SC[190]: Registered sub-client [icdb2wir] with ID [1] for session ID [190] host [DESKTOP-ANU9D3M] user [Acero] process ID [14044]
+[2021.12.06 21:06:04] [0215m.35s.266ms] [1] CMT: There are [3] clients now: 183, 189, 190
+[2021.12.06 21:06:04] [0215m.35s.591ms] [1] SC[190]: UnRegistered sub-client [icdb2wir] with ID [1] for session ID [190] host [DESKTOP-ANU9D3M] user [Acero] process ID [14044]
+[2021.12.06 21:06:04] [0215m.35s.594ms] [1] CMT: Removed client [190]
+[2021.12.06 21:06:04] [0215m.35s.594ms] [1] CMT: There are [2] clients now: 183, 189
+[2021.12.06 21:06:08] [0215m.39s.598ms] [0] IT: Session [191] for host [DESKTOP-ANU9D3M] user [Acero] client type[0] clsvrPluginID[0] with process ID [7696] created
+[2021.12.06 21:06:08] [0215m.39s.600ms] [1] SC[191]: Registered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [191] host [DESKTOP-ANU9D3M] user [Acero] process ID [7696]
+[2021.12.06 21:06:08] [0215m.39s.672ms] [1] CMT: There are [3] clients now: 183, 189, 191
+[2021.12.06 21:06:09] [0215m.40s.807ms] [1] SC[191]: Registered sub-client [LSUDX_PCB] with ID [2] for session ID [191] host [DESKTOP-ANU9D3M] user [Acero] process ID [7696]
+[2021.12.06 21:06:09] [0215m.40s.839ms] [1] SC[191]: Registered sub-client [ObjectHolder_144366184] with ID [3] for session ID [191] host [DESKTOP-ANU9D3M] user [Acero] process ID [7696]
+[2021.12.06 21:06:09] [0215m.40s.845ms] [1] SC[191]: Registered sub-client [BlockCacheDxD:141304864] with ID [4] for session ID [191] host [DESKTOP-ANU9D3M] user [Acero] process ID [7696]
+[2021.12.06 21:06:09] [0215m.40s.851ms] [1] SC[191]: Registered sub-client [GlobalNetAliasUpdater_144370448] with ID [5] for session ID [191] host [DESKTOP-ANU9D3M] user [Acero] process ID [7696]
+[2021.12.06 21:06:09] [0215m.40s.856ms] [1] SC[191]: Registered sub-client [IcdbNetProcessorSubClientDxD:148965792] with ID [6] for session ID [191] host [DESKTOP-ANU9D3M] user [Acero] process ID [7696]
+[2021.12.06 21:06:10] [0215m.41s.209ms] [1] SC[191]: UnRegistered sub-client [GlobalNetAliasUpdater_144370448] with ID [5] for session ID [191] host [DESKTOP-ANU9D3M] user [Acero] process ID [7696]
+[2021.12.06 21:06:10] [0215m.41s.209ms] [1] SC[191]: UnRegistered sub-client [BlockCacheDxD:141304864] with ID [4] for session ID [191] host [DESKTOP-ANU9D3M] user [Acero] process ID [7696]
+[2021.12.06 21:06:10] [0215m.41s.210ms] [1] SC[191]: UnRegistered sub-client [ObjectHolder_144366184] with ID [3] for session ID [191] host [DESKTOP-ANU9D3M] user [Acero] process ID [7696]
+[2021.12.06 21:06:10] [0215m.41s.211ms] [1] SC[191]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:148965792] with ID [6] for session ID [191] host [DESKTOP-ANU9D3M] user [Acero] process ID [7696]
+[2021.12.06 21:06:10] [0215m.41s.211ms] [1] SC[191]: UnRegistered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [191] host [DESKTOP-ANU9D3M] user [Acero] process ID [7696]
+[2021.12.06 21:06:10] [0215m.41s.225ms] [1] SC[191]: UnRegistered sub-client [LSUDX_PCB] with ID [2] for session ID [191] host [DESKTOP-ANU9D3M] user [Acero] process ID [7696]
+[2021.12.06 21:06:10] [0215m.41s.310ms] [1] CMT: Removed client [191]
+[2021.12.06 21:06:10] [0215m.41s.310ms] [1] CMT: There are [2] clients now: 183, 189
+[2021.12.06 21:06:12] [0215m.43s.036ms] [1] SC[189]: UnRegistered sub-client [pcbui] with ID [1] for session ID [189] host [DESKTOP-ANU9D3M] user [Acero] process ID [2384]
+[2021.12.06 21:06:12] [0215m.43s.063ms] [1] CMT: Removed client [189]
+[2021.12.06 21:06:12] [0215m.43s.064ms] [1] CMT: There are [1] clients now: 183
+[2021.12.06 21:06:12] [0215m.43s.422ms] [1] SC[183]: Registered sub-client [DesignSearcher2] with ID [40] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:06:28] [0215m.59s.730ms] [0] IT: Session [192] for host [DESKTOP-ANU9D3M] user [Acero] client type[0] clsvrPluginID[0] with process ID [8152] created
+[2021.12.06 21:06:28] [0215m.59s.732ms] [1] SC[192]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [192] host [DESKTOP-ANU9D3M] user [Acero] process ID [8152]
+[2021.12.06 21:06:28] [0215m.59s.780ms] [1] CMT: There are [2] clients now: 183, 192
+[2021.12.06 21:06:29] [0216m.00s.476ms] [0] IT: Session [193] for host [DESKTOP-ANU9D3M] user [Acero] client type[0] clsvrPluginID[0] with process ID [13168] created
+[2021.12.06 21:06:29] [0216m.00s.478ms] [1] SC[193]: Registered sub-client [icdb2wir] with ID [1] for session ID [193] host [DESKTOP-ANU9D3M] user [Acero] process ID [13168]
+[2021.12.06 21:06:29] [0216m.00s.551ms] [1] CMT: There are [3] clients now: 183, 192, 193
+[2021.12.06 21:06:29] [0216m.00s.862ms] [1] SC[193]: UnRegistered sub-client [icdb2wir] with ID [1] for session ID [193] host [DESKTOP-ANU9D3M] user [Acero] process ID [13168]
+[2021.12.06 21:06:29] [0216m.00s.877ms] [1] CMT: Removed client [193]
+[2021.12.06 21:06:29] [0216m.00s.877ms] [1] CMT: There are [2] clients now: 183, 192
+[2021.12.06 21:06:33] [0216m.04s.190ms] [0] IT: Session [194] for host [DESKTOP-ANU9D3M] user [Acero] client type[0] clsvrPluginID[0] with process ID [14308] created
+[2021.12.06 21:06:33] [0216m.04s.192ms] [1] SC[194]: Registered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [194] host [DESKTOP-ANU9D3M] user [Acero] process ID [14308]
+[2021.12.06 21:06:33] [0216m.04s.265ms] [1] CMT: There are [3] clients now: 183, 192, 194
+[2021.12.06 21:06:34] [0216m.05s.372ms] [1] SC[194]: Registered sub-client [LSUDX_PCB] with ID [2] for session ID [194] host [DESKTOP-ANU9D3M] user [Acero] process ID [14308]
+[2021.12.06 21:06:34] [0216m.05s.403ms] [1] SC[194]: Registered sub-client [ObjectHolder_145696904] with ID [3] for session ID [194] host [DESKTOP-ANU9D3M] user [Acero] process ID [14308]
+[2021.12.06 21:06:34] [0216m.05s.409ms] [1] SC[194]: Registered sub-client [BlockCacheDxD:142144696] with ID [4] for session ID [194] host [DESKTOP-ANU9D3M] user [Acero] process ID [14308]
+[2021.12.06 21:06:34] [0216m.05s.456ms] [1] SC[194]: Registered sub-client [GlobalNetAliasUpdater_145697944] with ID [5] for session ID [194] host [DESKTOP-ANU9D3M] user [Acero] process ID [14308]
+[2021.12.06 21:06:34] [0216m.05s.462ms] [1] SC[194]: Registered sub-client [IcdbNetProcessorSubClientDxD:150425848] with ID [6] for session ID [194] host [DESKTOP-ANU9D3M] user [Acero] process ID [14308]
+[2021.12.06 21:06:34] [0216m.05s.797ms] [1] SC[194]: UnRegistered sub-client [GlobalNetAliasUpdater_145697944] with ID [5] for session ID [194] host [DESKTOP-ANU9D3M] user [Acero] process ID [14308]
+[2021.12.06 21:06:34] [0216m.05s.798ms] [1] SC[194]: UnRegistered sub-client [BlockCacheDxD:142144696] with ID [4] for session ID [194] host [DESKTOP-ANU9D3M] user [Acero] process ID [14308]
+[2021.12.06 21:06:34] [0216m.05s.798ms] [1] SC[194]: UnRegistered sub-client [ObjectHolder_145696904] with ID [3] for session ID [194] host [DESKTOP-ANU9D3M] user [Acero] process ID [14308]
+[2021.12.06 21:06:34] [0216m.05s.799ms] [1] SC[194]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:150425848] with ID [6] for session ID [194] host [DESKTOP-ANU9D3M] user [Acero] process ID [14308]
+[2021.12.06 21:06:34] [0216m.05s.799ms] [1] SC[194]: UnRegistered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [194] host [DESKTOP-ANU9D3M] user [Acero] process ID [14308]
+[2021.12.06 21:06:34] [0216m.05s.809ms] [1] SC[194]: UnRegistered sub-client [LSUDX_PCB] with ID [2] for session ID [194] host [DESKTOP-ANU9D3M] user [Acero] process ID [14308]
+[2021.12.06 21:06:34] [0216m.05s.910ms] [1] CMT: Removed client [194]
+[2021.12.06 21:06:34] [0216m.05s.910ms] [1] CMT: There are [2] clients now: 183, 192
+[2021.12.06 21:06:36] [0216m.07s.607ms] [1] SC[192]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [192] host [DESKTOP-ANU9D3M] user [Acero] process ID [8152]
+[2021.12.06 21:06:36] [0216m.07s.656ms] [1] CMT: Removed client [192]
+[2021.12.06 21:06:36] [0216m.07s.657ms] [1] CMT: There are [1] clients now: 183
+[2021.12.06 21:06:36] [0216m.07s.897ms] [0] IT: Session [195] for host [DESKTOP-ANU9D3M] user [Acero] client type[0] clsvrPluginID[0] with process ID [8152] created
+[2021.12.06 21:06:36] [0216m.07s.898ms] [1] SC[195]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [195] host [DESKTOP-ANU9D3M] user [Acero] process ID [8152]
+[2021.12.06 21:06:36] [0216m.07s.985ms] [1] CMT: There are [2] clients now: 183, 195
+[2021.12.06 21:06:36] [0216m.08s.035ms] [1] SC[195]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [195] host [DESKTOP-ANU9D3M] user [Acero] process ID [8152]
+[2021.12.06 21:06:37] [0216m.08s.096ms] [1] CMT: Removed client [195]
+[2021.12.06 21:06:37] [0216m.08s.096ms] [1] CMT: There are [1] clients now: 183
+[2021.12.06 21:07:04] [0216m.35s.648ms] [0] IT: Session [196] for host [DESKTOP-ANU9D3M] user [Acero] client type[0] clsvrPluginID[0] with process ID [8152] created
+[2021.12.06 21:07:04] [0216m.35s.666ms] [1] SC[196]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [196] host [DESKTOP-ANU9D3M] user [Acero] process ID [8152]
+[2021.12.06 21:07:04] [0216m.35s.726ms] [1] CMT: There are [2] clients now: 183, 196
+[2021.12.06 21:07:04] [0216m.35s.870ms] [1] SC[196]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [196] host [DESKTOP-ANU9D3M] user [Acero] process ID [8152]
+[2021.12.06 21:07:04] [0216m.35s.939ms] [1] CMT: Removed client [196]
+[2021.12.06 21:07:04] [0216m.35s.939ms] [1] CMT: There are [1] clients now: 183
+[2021.12.06 21:08:13] [0217m.44s.922ms] [0] IT: Session [197] for host [DESKTOP-ANU9D3M] user [Acero] client type[0] clsvrPluginID[0] with process ID [10220] created
+[2021.12.06 21:08:13] [0217m.44s.924ms] [1] SC[197]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [197] host [DESKTOP-ANU9D3M] user [Acero] process ID [10220]
+[2021.12.06 21:08:13] [0217m.45s.000ms] [1] CMT: There are [2] clients now: 183, 197
+[2021.12.06 21:08:14] [0217m.45s.058ms] [1] SC[197]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [197] host [DESKTOP-ANU9D3M] user [Acero] process ID [10220]
+[2021.12.06 21:08:14] [0217m.45s.111ms] [1] CMT: Removed client [197]
+[2021.12.06 21:08:14] [0217m.45s.111ms] [1] CMT: There are [1] clients now: 183
+[2021.12.06 21:33:14] [0242m.45s.439ms] [1] SC[183]: UnRegistered sub-client [SystemDesignDll] with ID [9] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:14] [0242m.45s.817ms] [1] SC[183]: UnRegistered sub-client [DesignSearcher2] with ID [40] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:15] [0242m.46s.545ms] [1] SC[183]: UnRegistered sub-client [GlobalNetAliasUpdater_637872000] with ID [35] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:15] [0242m.46s.546ms] [1] SC[183]: UnRegistered sub-client [BlockCacheDxD:600870352] with ID [34] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:15] [0242m.46s.547ms] [1] SC[183]: UnRegistered sub-client [ObjectHolder_637871168] with ID [33] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:15] [0242m.46s.548ms] [1] SC[183]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:636851936] with ID [36] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:15] [0242m.46s.593ms] [1] SC[183]: UnRegistered sub-client [Navigator] with ID [12] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:15] [0242m.46s.614ms] [1] SC[183]: UnRegistered sub-client [FFSSelListener] with ID [17] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:15] [0242m.46s.850ms] [1] SC[183]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:16] [0242m.47s.089ms] [1] SC[183]: UnRegistered sub-client [FFSearch_RBHost] with ID [15] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:16] [0242m.47s.158ms] [1] SC[183]: UnRegistered sub-client [MyParts] with ID [22] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:16] [0242m.47s.203ms] [1] SC[183]: UnRegistered sub-client [toolboxes] with ID [24] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:16] [0242m.47s.370ms] [1] SC[183]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:16] [0242m.47s.375ms] [1] SC[183]: UnRegistered sub-client [PartReplaceUtils] with ID [29] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:16] [0242m.47s.375ms] [1] SC[183]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:17] [0242m.48s.435ms] [1] SC[183]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:590491864] with ID [26] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:17] [0242m.48s.442ms] [1] SC[183]: UnRegistered sub-client [Core::NetFlatData-18902] with ID [7] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:17] [0242m.48s.443ms] [1] SC[183]: UnRegistered sub-client [BlockCacheDxD:586797048] with ID [6] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:17] [0242m.48s.444ms] [1] SC[183]: UnRegistered sub-client [Core::DesignListener-586797432-0] with ID [5] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:17] [0242m.48s.445ms] [1] SC[183]: UnRegistered sub-client [SheetConnectorsCacheDxD:1638826240] with ID [27] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:17] [0242m.48s.445ms] [1] SC[183]: UnRegistered sub-client [NetsNamesCollectorDxD:1638826240] with ID [28] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:17] [0242m.48s.455ms] [1] SC[183]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:17] [0242m.48s.458ms] [1] SC[183]: UnRegistered sub-client [DxD] with ID [1] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:17] [0242m.48s.493ms] [1] SC[183]: UnRegistered sub-client [xprob] with ID [31] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:17] [0242m.48s.494ms] [1] SC[183]: UnRegistered sub-client [SymbolEditor] with ID [3] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:17] [0242m.48s.531ms] [1] SC[183]: UnRegistered sub-client [OutputWindow] with ID [13] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:17] [0242m.48s.839ms] [1] SC[183]: UnRegistered sub-client [DxDbSearch] with ID [37] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:17] [0242m.48s.859ms] [1] SC[183]: UnRegistered sub-client [SAE] with ID [18] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:17] [0242m.48s.923ms] [1] SC[183]: UnRegistered sub-client [CCZAddin] with ID [20] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:17] [0242m.48s.938ms] [1] SC[183]: UnRegistered sub-client [DxThumbnails] with ID [21] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:43] [0243m.14s.999ms] [1] SC[183]: UnRegistered sub-client [DxConstraints] with ID [19] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:44] [0243m.15s.098ms] [1] SC[183]: UnRegistered sub-client [PinsList] with ID [23] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:44] [0243m.15s.239ms] [1] SC[183]: UnRegistered sub-client [PlaceDevice] with ID [14] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:44] [0243m.15s.345ms] [1] SC[183]: UnRegistered sub-client [IBDInstanceDialog] with ID [25] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:44] [0243m.15s.378ms] [1] SC[183]: UnRegistered sub-client [HdlProject] with ID [11] for session ID [183] host [DESKTOP-ANU9D3M] user [Acero] process ID [6984]
+[2021.12.06 21:33:44] [0243m.15s.483ms] [1] CMT: Removed client [183]
+[2021.12.06 21:33:44] [0243m.15s.483ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2021.12.06 21:33:44] [0243m.15s.775ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2021.12.06 21:33:46] [0243m.17s.125ms] [0] CMT: Starting server auto-close
+[2021.12.06 21:33:46] [0243m.17s.219ms] [0] S: Closing server
+[2021.12.06 21:33:46] [0243m.17s.395ms] [0] iCDB Server PI: Closing plugins
+[2021.12.06 21:33:46] [0243m.17s.403ms] [0] iCDB Server PI: Plugins closed
+[2021.12.06 21:33:46] [0243m.17s.403ms] [0] iCDB Server PI: Unloading database
+[2021.12.06 21:33:46] [0243m.17s.403ms] [0] iCDB Server PI: Saving storage
+[2021.12.06 21:33:46] [0243m.17s.403ms] [0] iCDB Server PI: Closing database
+[2021.12.06 21:33:46] [0243m.17s.482ms] [1] iCDB Server PI: Stats: Database defragmentation: max[3] avg[1] holes[52%] data[80%]
+[2021.12.06 21:33:46] [0243m.17s.482ms] [1] iCDB Server PI: Stats: Database file size [538524 (525.9 kB)]
+[2021.12.06 21:33:46] [0243m.17s.523ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2021.12.06 21:33:46] [0243m.17s.543ms] [0] iCDB Server PI: Database closed
+[2021.12.06 21:33:46] [0243m.17s.543ms] [0] iCDB Server PI: Defragmenting database
+[2021.12.06 21:33:46] [0243m.17s.544ms] [0] iCDB Server PI: Creating database [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\database] backup to file [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\database\cdbback\2021-12-06 21.33.46-1528-d.zip]
+[2021.12.06 21:33:46] [0243m.17s.817ms] [0] iCDB Server PI: Database backup: DONE
+[2021.12.06 21:33:46] [0243m.17s.892ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.12.06 21:33:46] [0243m.17s.893ms] [0] Database GUARD OK: [538524]
+[2021.12.06 21:33:46] [0243m.17s.893ms] [0] SingleFile: [3ba2-822a-0ff9-f307] SFI version check [1009] [1009]
+[2021.12.06 21:33:46] [0243m.17s.903ms] [0] SingleFile: [3ba2-822a-0ff9-f307] Database SFI header has been read in [10ms 849us]
+[2021.12.06 21:33:47] [0243m.18s.038ms] [1] iCDB Server PI: Stats: Database file sizes: before[538524 (525.9 kB)], after[243248 (237.5 kB)], gain[295276 (288.4 kB)]
+[2021.12.06 21:33:47] [0243m.18s.080ms] [0] Single file [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\database\icdb.dat] closed with size [243248 (237.5 kB)]
+[2021.12.06 21:33:47] [0243m.18s.092ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2021.12.06 21:33:47] [0243m.18s.092ms] [1] BackupTransaction: Removing database backup [D:\Academico\ITLA\C9\Diseño mecatrónico\IC-SHELTER Archivos\IC-SHELTER\database\cdbback\2021-12-06 21.33.46-1528-d.zip]
+[2021.12.06 21:33:47] [0243m.18s.093ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [3283042] ticks
+[2021.12.06 21:33:47] [0243m.18s.093ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [328304] microseconds
+[2021.12.06 21:33:47] [0243m.18s.093ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [227]
+[2021.12.06 21:33:47] [0243m.18s.093ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [691] commands per second
+[2021.12.06 21:33:47] [0243m.18s.093ms] [1] iCDB Server PI: Stats: Mem[33652736]
+[2021.12.06 21:33:47] [0243m.18s.093ms] [1] iCDB Server PI: Stats: MemPeak[45109248]
+[2021.12.06 21:33:47] [0243m.18s.095ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2021.12.06 21:33:47] [0243m.18s.317ms] [0] MWT: Destroy the shutdown block reason.
+[2021.12.06 21:33:47] [0243m.18s.320ms] [0] MWT: STOP
+[2021.12.06 21:33:47] [0243m.18s.320ms] [0] S: STOP

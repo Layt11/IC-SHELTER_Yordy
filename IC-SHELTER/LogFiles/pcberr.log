@@ -1,0 +1,5 @@
+pcb: Note 6085: TOP pkg U3: 2 empty slot(s), device ULN2003A_SOIC16
+pcb: Note 5854: Instance value (DEVICE=RESISTOR_SMD_1206) was added to instance ($1I25\$1I245\$1I66) on (FUB246).
+pcb: Note 5626: Summary of LogFiles/pcberr.log
+Status 0, Notes 3, Warnings 0
+Errors 0, Failures 0, Fatals 0, Internals 0
